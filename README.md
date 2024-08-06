@@ -126,7 +126,7 @@ This table maintains inventory details, including product names, costs, quantiti
 ## Entity-Relationship Diagrams
 The ERD (Entity-Relationship Diagram) generated from the provided SQL code illustrates the structured relationships between various entities in Monvar's database system. The central entities include customers, employees, and sales, each with unique identifiers to ensure data integrity. The employees are linked to their respective departments and demographic details, while managers oversee these departments. Sales transactions are documented in the sales table, linking customers and employees to individual sales records. Additionally, the order_sales table details products involved in each sale, and the stock table manages inventory levels and supplier information. This comprehensive ERD ensures an organized and efficient way to manage and analyze Monvar's business data.
 
-![ERD](URL)
+![ERD](https://github.com/isabellamontoya/Project-data-schema-and-ERD/blob/main/ERD.png)
 
 # What I Learned
 Through this project, I gained valuable insights into the process of designing and implementing a relational database schema from scratch. I learned how to identify and define the necessary tables, establish relationships using foreign keys, and ensure data integrity. Additionally, I improved my skills in writing SQL queries for data insertion and manipulation. This project also enhanced my understanding of how to structure and organize business data to enable efficient analysis and decision-making.
